@@ -1,0 +1,76 @@
+{
+ "code": "M475A",
+ "connector": "RTO-144",
+ "type": "M475A - Stereo Monitor Module",
+ "series": null,
+ "contacts": "22 contacts, 1 contacts (J1), 1 contacts (J2), 1 contacts (P1), 1 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/MONITORING/M475A/SCHEMATICS/1986 - M475A - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/MONITORING/M475A/MECHANICAL/1986 - M475A - 475-04-004.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/MONITORING/M475A/SCHEMATICS/1986 - M475A - 14-140-06-001 - DUAL BOOSTER AMPLIFIER COMPONENT LAYOUT.jpg",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/MONITORING/M475A/SCHEMATICS/1986 - M475A - 14-140-06-001 - DUAL BOOSTER AMPLIFIER COMPONENT LAYOUT.jpg",
+   "page": 1
+  },
+  {
+   "pin": "Z",
+   "signal": "MUTE CO N T ...OL",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+   "page": 8
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M475A/M475A.rto144.json",
+  "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+  "Modules/MONITORING/M475A/MECHANICAL/1986 - M475A - 475-04-004.jpg",
+  "Modules/MONITORING/M475A/SCHEMATICS/1986 - M475A - 14-140-06-001 - DUAL BOOSTER AMPLIFIER COMPONENT LAYOUT.jpg",
+  "Modules/MONITORING/M475A/SCHEMATICS/1986 - M475A - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC.jpg"
+ ]
+}
