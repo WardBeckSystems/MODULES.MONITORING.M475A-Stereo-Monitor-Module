@@ -1,0 +1,86 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module.pdf",
+ "page": 16,
+ "version": 1,
+ "trace": "_traces/36257bfbf2faa8d1-p16.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "16", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [5.4, 22.9, 338.5, 312.8],
+ "outlines": {
+  "line": {"rings": 142, "straight": {"n": 2491, "mm": 7452.1}, "curved": {"n": 327, "mm": 633.0}},
+  "text": {"rings": 78, "straight": {"n": 451, "mm": 433.0}, "curved": {"n": 170, "mm": 248.1}}
+ },
+ "circles": [
+  {"c": [297.1, 242.5], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [297.1, 160.7], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [297.1, 145.9], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [297.1, 182.2], "r": 5.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.3, 284.6], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [41.7, 285.0], "r": 2.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [41.5, 167.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [116.9, 166.8], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [26.0, 276.8], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [26.0, 154.9], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {
+   "mm": [17.5, 130.2, 180.3, 298.8],
+   "w": 162.8,
+   "h": 168.6,
+   "from": "ring",
+   "words": ["CANADA", "14-139", "S414-140", "DUAL", "DOOSTER", "AMPLIFIER", "SUBASSEMOLY", "J2_", "JI-1", "SW?", "5w/6"]
+  },
+  {"mm": [187.6, 272.5, 193.0, 290.8], "w": 5.4, "h": 18.4, "from": "ring"},
+  {
+   "mm": [37.4, 163.2, 121.8, 289.4],
+   "w": 84.4,
+   "h": 126.1,
+   "from": "ring",
+   "words": ["S414-140", "DUAL", "DOOSTER", "AMPLIFIER", "SUBASSEMOLY", "J2_", "JI-1"]
+  },
+  {"mm": [40.2, 283.4, 43.0, 286.5], "w": 2.8, "h": 3.1, "from": "ring"},
+  {"mm": [20.1, 274.6, 28.1, 279.4], "w": 8.0, "h": 4.7, "from": "ring"},
+  {"mm": [187.6, 252.8, 193.0, 271.0], "w": 5.5, "h": 18.1, "from": "ring"},
+  {"mm": [187.6, 213.7, 193.0, 231.9], "w": 5.4, "h": 18.1, "from": "ring"},
+  {"mm": [187.6, 194.3, 193.2, 212.2], "w": 5.6, "h": 17.9, "from": "ring"},
+  {"mm": [68.0, 167.1, 70.2, 170.8], "w": 2.2, "h": 3.7, "from": "ring"},
+  {"mm": [115.5, 165.6, 118.1, 168.4], "w": 2.6, "h": 2.8, "from": "ring"},
+  {"mm": [177.7, 157.8, 179.8, 164.3], "w": 2.2, "h": 6.5, "from": "ring"},
+  {"mm": [19.6, 152.6, 27.9, 156.7], "w": 8.2, "h": 4.1, "from": "ring"}
+ ],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [158.9, 236.6, 173.6, 240.5], "text": "CANADA"},
+   {"mm": [155.0, 228.6, 172.7, 233.9], "text": "14-139"},
+   {"mm": [56.3, 223.7, 101.7, 227.5], "text": "DUAL DOOSTER AMPLIFIER"},
+   {"mm": [71.5, 227.6, 86.6, 230.9], "text": "S414-140"},
+   {"mm": [67.8, 220.4, 90.5, 224.3], "text": "SUBASSEMOLY"},
+   {"mm": [108.0, 181.4, 114.0, 183.5], "text": "J2_"},
+   {"mm": [103.4, 166.5, 110.3, 170.3], "text": "JI-1"},
+   {"mm": [163.2, 158.9, 170.1, 162.3], "text": "SW?"},
+   {"mm": [163.7, 143.8, 170.6, 147.1], "text": "5w/6"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–338 mm across, 23–313 mm up",
+  "- **Outlines:** line 142 rings, 2,491 straight (7,452 mm) / 327 curved (633 mm); text 78 rings, 451 straight (433 mm) / 170 curved (248 mm)",
+  "- **Circles and arcs:** 10 circles, 0 arcs; largest r 5.0 @ (297.1, 242.5), r 5.0 @ (297.1, 160.7), r 5.0 @ (297.1, 145.9), r 5.0 @ (297.1, 182.2)",
+  "- **Closed boxes:** 12; named: CANADA 14-139 S414-140 DUAL DOOSTER AMPL; S414-140 DUAL DOOSTER AMPLIFIER SUBASSEM",
+  "- **Words (OCR):** 11 in 9 lines: CANADA · 14-139 · DUAL DOOSTER AMPLIFIER · S414-140 · SUBASSEMOLY · J2_ · JI-1 · SW? · 5w/6"
+ ]
+}

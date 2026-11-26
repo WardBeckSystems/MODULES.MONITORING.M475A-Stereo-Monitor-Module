@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 324.5, 427.9],
+ "outlines": {
+  "line": {"rings": 127, "straight": {"n": 1866, "mm": 4411.0}, "curved": {"n": 312, "mm": 526.3}},
+  "text": {"rings": 257, "straight": {"n": 1755, "mm": 2024.8}, "curved": {"n": 561, "mm": 885.9}}
+ },
+ "circles": [
+  {"c": [201.2, 375.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [79.8, 308.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [176.5, 315.1], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 60,
+  "lines": [
+   {"mm": [33.9, 413.7, 52.2, 419.7], "text": "WA;:::;"},
+   {"mm": [74.5, 413.7, 148.3, 419.7], "text": "CX: YST MS LTD."},
+   {"mm": [134.5, 372.4, 152.9, 377.2], "text": "CI RCU"},
+   {"mm": [165.2, 372.4, 206.4, 377.2], "text": "DESCR IPT ION"},
+   {"mm": [117.4, 359.3, 163.7, 364.1], "text": "M4 SA STEREO"},
+   {"mm": [172.7, 359.3, 219.6, 364.1], "text": "ONITOR MOOUL"},
+   {"mm": [46.9, 332.1, 52.9, 336.9], "text": "Th"},
+   {"mm": [68.4, 331.4, 95.9, 338.4], "text": "~oup ed"},
+   {"mm": [109.2, 331.4, 220.6, 338.4], "text": "~18 II olt upply IIol ge ow ers"},
+   {"mm": [242.0, 332.1, 259.7, 336.9], "text": "audio"},
+   {"mm": [282.6, 332.1, 294.1, 336.9], "text": "itry"},
+   {"mm": [46.9, 326.0, 61.5, 331.0], "text": "of th"},
+   {"mm": [71.2, 326.2, 92.2, 331.0], "text": "M47SA."},
+   {"mm": [46.9, 312.6, 52.9, 317.4], "text": "Th"},
+   {"mm": [63.7, 312.6, 77.7, 317.4], "text": "comm"},
+   {"mm": [95.9, 312.6, 100.2, 317.4], "text": "et"},
+   {"mm": [136.4, 312.6, 142.1, 317.4], "text": "he"},
+   {"mm": [156.1, 312.0, 177.0, 318.5], "text": "~2S IIo"},
+   {"mm": [200.6, 312.6, 215.9, 317.4], "text": "plies"},
+   {"mm": [233.4, 312.6, 239.4, 317.4], "text": "at"},
+   {"mm": [250.0, 312.6, 267.3, 317.4], "text": "in 20"},
+   {"mm": [285.2, 312.6, 290.0, 317.4], "text": "th"},
+   {"mm": [46.9, 305.9, 64.6, 310.7], "text": "mo dul"},
+   {"mm": [75.1, 305.9, 107.7, 310.7], "text": "co nnect or,"},
+   {"mm": [159.6, 305.9, 169.7, 310.7], "text": "ain"},
+   {"mm": [182.7, 305.9, 193.9, 310.7], "text": "...me"},
+   {"mm": [215.0, 305.9, 218.7, 310.7], "text": "si"},
+   {"mm": [240.1, 305.9, 258.9, 310.7], "text": "ne tio"},
+   {"mm": [268.8, 305.9, 294.3, 310.7], "text": "app ea rs"},
+   {"mm": [72.5, 299.5, 81.4, 304.3], "text": "22."},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–324 mm across, 0–428 mm up",
+  "- **Outlines:** line 127 rings, 1,866 straight (4,411 mm) / 312 curved (526 mm); text 257 rings, 1,755 straight (2,025 mm) / 561 curved (886 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (201.2, 375.6), r 1.7 @ (79.8, 308.7), r 1.6 @ (176.5, 315.1)",
+  "- **Words (OCR):** 60 in 34 lines: WA;:::; · CX: YST MS LTD. · CI RCU · DESCR IPT ION · M4 SA STEREO · ONITOR MOOUL · Th · ~oup ed · ~18 II olt upply IIol ge ow ers · audio · itry · of th"
+ ]
+}

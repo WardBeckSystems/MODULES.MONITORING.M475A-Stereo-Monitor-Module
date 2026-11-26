@@ -1,0 +1,63 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [28.0, 11.8, 330.3, 346.1],
+ "outlines": {
+  "line": {"rings": 721, "straight": {"n": 6021, "mm": 9023.8}, "curved": {"n": 1796, "mm": 2644.8}},
+  "text": {"rings": 166, "straight": {"n": 993, "mm": 1201.7}, "curved": {"n": 261, "mm": 419.5}},
+  "tb": {"rings": 12, "straight": {"n": 147, "mm": 172.5}, "curved": {"n": 28, "mm": 41.1}}
+ },
+ "circles": [
+  {"c": [117.4, 339.4], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [226.4, 169.5], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [118.0, 169.6], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [296.3, 33.1], "r": 2.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [193.6, 316.2], "r": 1.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [{"mm": [110.8, 163.0, 233.0, 346.1], "w": 122.2, "h": 183.1, "from": "ring", "words": ["10/", "25", "1012S"]}],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [121.6, 337.2, 130.8, 340.6], "text": "10/ 25"},
+   {"mm": [153.1, 337.0, 162.6, 340.4], "text": "1012S"},
+   {"mm": [211.2, 60.5, 328.6, 69.1], "text": "[vvssJ WARe-BECK SYSTEMS"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [256.7, 46.0, 292.1, 51.5], "text": "SA 14-140"},
+   {"mm": [219.8, 37.6, 321.3, 43.1], "text": "DUAL BOOSTER AMPLIFIER"},
+   {"mm": [230.4, 29.1, 307.7, 34.7], "text": "COMPONENT LAYOUT"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [219.8, 17.5, 273.3, 23.0], "text": "14-140 -06-001"},
+   {"mm": [315.6, 17.9, 330.1, 23.4], "text": "ISS.1"}
+  ]
+ },
+ "title_block": {"mm": [242.1, 52.7, 335.5, 74.4], "from": "title-block words (training set)", "text": ["[vvssJ WARe-BECK SYSTEMS", "ps", "BS"]},
+ "dots": [{"c": [126.0, 220.2], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 28–330 mm across, 12–346 mm up",
+  "- **Outlines:** line 721 rings, 6,021 straight (9,024 mm) / 1,796 curved (2,645 mm); text 166 rings, 993 straight (1,202 mm) / 261 curved (420 mm); tb 12 rings, 147 straight (172 mm) / 28 curved (41.1 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 2.4 @ (117.4, 339.4), r 2.4 @ (226.4, 169.5), r 2.4 @ (118.0, 169.6), r 2.4 @ (296.3, 33.1)",
+  "- **Closed boxes:** 1; named: 10/ 25 1012S",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 20 in 12 lines: 10/ 25 · 1012S · [vvssJ WARe-BECK SYSTEMS · ps · BS · SA 14-140 · DUAL BOOSTER AMPLIFIER · COMPONENT LAYOUT · tp · ht · 14-140 -06-001 · ISS.1",
+  "- **Title block:** (242, 53)–(336, 74) mm: [vvssJ WARe-BECK SYSTEMS · ps · BS"
+ ]
+}

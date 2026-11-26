@@ -1,0 +1,64 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/36257bfbf2faa8d1-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 324.5, 427.9],
+ "outlines": {
+  "line": {"rings": 44, "straight": {"n": 1073, "mm": 3384.1}, "curved": {"n": 114, "mm": 181.5}},
+  "text": {"rings": 325, "straight": {"n": 2366, "mm": 2697.4}, "curved": {"n": 716, "mm": 1140.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 49,
+  "lines": [
+   {"mm": [33.5, 414.5, 128.5, 421.5], "text": "WAAC-EECX Systems"},
+   {"mm": [133.2, 372.4, 207.7, 379.4], "text": "CIRcuiT DESCRIPT ION"},
+   {"mm": [116.6, 359.5, 196.5, 366.4], "text": "ML7SA STEREO MON TOR"},
+   {"mm": [199.5, 358.4, 224.8, 366.1], "text": "MODULE"},
+   {"mm": [45.3, 332.1, 97.2, 339.7], "text": "The decoupled"},
+   {"mm": [100.8, 332.1, 164.7, 339.4], "text": "+/-18 volt supply"},
+   {"mm": [168.8, 331.2, 221.9, 338.6], "text": "voltage powers"},
+   {"mm": [226.0, 332.1, 285.2, 338.5], "text": "the audio circui"},
+   {"mm": [283.3, 331.2, 295.4, 338.6], "text": "try"},
+   {"mm": [45.8, 326.0, 91.1, 332.5], "text": "of the M475A _"},
+   {"mm": [45.3, 312.6, 113.8, 319.8], "text": "The common return"},
+   {"mm": [117.7, 312.6, 144.7, 319.1], "text": "for the"},
+   {"mm": [147.9, 312.6, 184.2, 319.6], "text": "+/-25 volt"},
+   {"mm": [188.3, 312.0, 240.3, 318.9], "text": "supplies is at"},
+   {"mm": [244.4, 311.3, 256.3, 318.3], "text": "pin"},
+   {"mm": [260.6, 312.0, 295.1, 319.1], "text": "20 of the"},
+   {"mm": [45.8, 306.1, 69.5, 312.6], "text": "module"},
+   {"mm": [73.6, 304.9, 149.2, 313.0], "text": "connector, while the"},
+   {"mm": [153.7, 306.1, 171.0, 312.6], "text": "main"},
+   {"mm": [174.9, 304.6, 294.9, 312.8], "text": "frame chassis connection appears"},
+   {"mm": [46.2, 299.9, 53.8, 305.2], "text": "at"},
+   {"mm": [56.6, 299.0, 68.4, 305.5], "text": "pin"},
+   {"mm": [71.2, 299.7, 80.3, 306.1], "text": "22"},
+   {"mm": [164.1, 20.5, 176.0, 27.0], "text": "4-3"}
+  ]
+ },
+ "dots": [{"c": [80.5, 301.1], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–324 mm across, 0–428 mm up",
+  "- **Outlines:** line 44 rings, 1,073 straight (3,384 mm) / 114 curved (182 mm); text 325 rings, 2,366 straight (2,697 mm) / 716 curved (1,141 mm)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 49 in 24 lines: WAAC-EECX Systems · CIRcuiT DESCRIPT ION · ML7SA STEREO MON TOR · MODULE · The decoupled · +/-18 volt supply · voltage powers · the audio circui · try · of the M475A _ · The common return · for the"
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 22.7, 313.5, 427.7],
+ "outlines": {
+  "line": {"rings": 198, "straight": {"n": 2277, "mm": 5126.3}, "curved": {"n": 490, "mm": 778.8}},
+  "text": {"rings": 554, "straight": {"n": 3722, "mm": 4206.8}, "curved": {"n": 1045, "mm": 1651.3}}
+ },
+ "circles": [
+  {"c": [159.3, 375.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [64.8, 336.1], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 85,
+  "lines": [
+   {"mm": [45.6, 413.9, 60.7, 419.2], "text": "FlO-"},
+   {"mm": [73.2, 413.9, 137.1, 419.2], "text": "CK YSTEMS LT"},
+   {"mm": [134.5, 371.8, 200.6, 376.8], "text": "T\"B LE OF CONTENTS"},
+   {"mm": [114.2, 358.6, 217.0, 363.6], "text": "101475\" STEREO MON ITOR MODUL"},
+   {"mm": [85.3, 318.9, 110.8, 324.2], "text": "Wa ,.ant"},
+   {"mm": [85.3, 292.3, 127.4, 297.6], "text": "Tec hn ical Da"},
+   {"mm": [84.8, 285.4, 106.4, 290.9], "text": "Genera"},
+   {"mm": [84.8, 277.9, 161.9, 284.3], "text": "D~\"at lona Descript ion"},
+   {"mm": [84.8, 272.0, 148.1, 277.3], "text": "Ci.-.cuit Dasc:,. lption"},
+   {"mm": [252.2, 271.2, 271.6, 276.2], "text": "104-3"},
+   {"mm": [261.9, 264.5, 271.2, 269.8], "text": "5_5"},
+   {"mm": [84.8, 258.9, 138.2, 264.1], "text": "Connector La you"},
+   {"mm": [84.8, 251.7, 117.0, 257.0], "text": "D\"aw ings'"},
+   {"mm": [84.4, 245.7, 106.4, 251.0], "text": "Module"},
+   {"mm": [119.0, 245.7, 132.1, 251.0], "text": "yout"},
+   {"mm": [237.7, 244.8, 274.6, 250.3], "text": "8475-()4 ..Q04"},
+   {"mm": [92.8, 239.0, 108.0, 244.3], "text": "nct io"},
+   {"mm": [241.8, 238.4, 274.0, 243.4], "text": "475-01 _002"},
+   {"mm": [84.4, 232.5, 94.1, 237.6], "text": "SCh"},
+   {"mm": [107.5, 232.7, 115.5, 237.5], "text": "tic"},
+   {"mm": [237.7, 231.2, 273.8, 236.7], "text": "847 5-<12_002"},
+   {"mm": [84.4, 225.8, 139.7, 231.1], "text": "Com ponent La you"},
+   {"mm": [237.7, 224.8, 274.0, 229.8], "text": "B47S-<l6 _002"},
+   {"mm": [44.3, 212.2, 48.1, 217.5], "text": "II"},
+   {"mm": [84.4, 212.2, 176.2, 217.5], "text": "Mod ll!s nd SubasSI!1TIblil!s"},
+   {"mm": [84.0, 198.6, 213.5, 204.1], "text": "51.14_'40 Dual 8oost.... Amp l\"i.... As sem"},
+   {"mm": [88.7, 185.9, 99.3, 191.2], "text": "i,.cu"},
+   {"mm": [111.0, 185.9, 145.7, 191.2], "text": "Desc rip ion"},
+   {"mm": [243.8, 178.1, 257.1, 183.2], "text": "110"},
+   {"mm": [84.0, 172.3, 105.1, 177.6], "text": "O\"aw in"},
+   {"mm": [84.0, 166.0, 114.4, 171.3], "text": "Sc hemat ic"},
+   {"mm": [241.6, 164.9, 283.3, 170.0], "text": "14-140-0 2-001"},
+   {"mm": [83.6, 159.3, 109.9, 164.6], "text": "Com pone"},
+   {"mm": [129.8, 159.3, 139.3, 164.6], "text": "you"},
+   {"mm": [236.8, 158.5, 284.3, 163.7], "text": "814 40-06--001"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [255.2, 267.4], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–314 mm across, 23–428 mm up",
+  "- **Outlines:** line 198 rings, 2,277 straight (5,126 mm) / 490 curved (779 mm); text 554 rings, 3,722 straight (4,207 mm) / 1,045 curved (1,651 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.1 @ (159.3, 375.4), r 2.1 @ (64.8, 336.1)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 85 in 39 lines: FlO- · CK YSTEMS LT · T\"B LE OF CONTENTS · 101475\" STEREO MON ITOR MODUL · Wa ,.ant · Tec hn ical Da · Genera · D~\"at lona Descript ion · Ci.-.cuit Dasc:,. lption · 104-3 · 5_5 · Connector La you"
+ ]
+}

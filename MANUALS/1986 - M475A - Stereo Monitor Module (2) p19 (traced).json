@@ -1,0 +1,66 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 11.4, 327.3, 323.7],
+ "outlines": {
+  "line": {"rings": 229, "straight": {"n": 2101, "mm": 4055.0}, "curved": {"n": 483, "mm": 698.2}},
+  "text": {"rings": 121, "straight": {"n": 875, "mm": 1094.5}, "curved": {"n": 222, "mm": 339.5}},
+  "tb": {"rings": 8, "straight": {"n": 107, "mm": 148.7}, "curved": {"n": 27, "mm": 60.1}}
+ },
+ "circles": [
+  {"c": [62.2, 107.1], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [139.3, 205.6], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [51.3, 178.9], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 27,
+  "lines": [
+   {"mm": [64.1, 320.8, 77.7, 323.5], "text": "BOOSTER"},
+   {"mm": [62.2, 317.4, 79.7, 319.8], "text": "AMPl.. 1F ER"},
+   {"mm": [176.4, 299.9, 183.9, 302.8], "text": "LEFT"},
+   {"mm": [174.4, 296.6, 184.2, 299.3], "text": "OUTPU"},
+   {"mm": [179.8, 293.6, 185.2, 296.0], "text": "dBm"},
+   {"mm": [100.8, 286.3, 120.7, 290.1], "text": ".rjIv--o"},
+   {"mm": [152.4, 286.5, 162.4, 289.1], "text": "MUTED"},
+   {"mm": [72.3, 105.4, 80.1, 108.0], "text": "SOl..O"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [209.4, 54.0, 325.6, 61.9], "text": "(VVE3sJ WARe-BECK SYSTEMS"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [258.9, 39.1, 281.3, 44.4], "text": "M475A"},
+   {"mm": [218.3, 30.9, 316.9, 36.2], "text": "STEREO MON ITOR MODULE"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [249.4, 23.3, 290.4, 28.6], "text": "FUNCTIONAL"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"},
+   {"mm": [217.0, 10.8, 258.0, 16.1], "text": "475 -01 -002"},
+   {"mm": [310.5, 10.4, 321.5, 15.6], "text": "ISS"}
+  ]
+ },
+ "title_block": {"mm": [239.7, 46.1, 332.5, 67.6], "from": "title-block words (training set)", "text": ["ps", "(VVE3sJ WARe-BECK SYSTEMS", "BS"]},
+ "dots": [{"c": [119.8, 288.4], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–327 mm across, 11–324 mm up",
+  "- **Outlines:** line 229 rings, 2,101 straight (4,055 mm) / 483 curved (698 mm); text 121 rings, 875 straight (1,094 mm) / 222 curved (340 mm); tb 8 rings, 107 straight (149 mm) / 27 curved (60.1 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 2.9 @ (62.2, 107.1), r 2.9 @ (139.3, 205.6), r 2.8 @ (51.3, 178.9)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 27 in 18 lines: BOOSTER · AMPl.. 1F ER · LEFT · OUTPU · dBm · .rjIv--o · MUTED · SOl..O · ps · (VVE3sJ WARe-BECK SYSTEMS · BS · M475A",
+  "- **Title block:** (240, 46)–(332, 68) mm: ps · (VVE3sJ WARe-BECK SYSTEMS · BS"
+ ]
+}

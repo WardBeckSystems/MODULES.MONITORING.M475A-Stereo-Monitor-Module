@@ -1,0 +1,68 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 28,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p28.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "28", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 313.5, 426.0],
+ "outlines": {
+  "line": {"rings": 345, "straight": {"n": 3379, "mm": 7142.0}, "curved": {"n": 694, "mm": 1136.0}},
+  "text": {"rings": 314, "straight": {"n": 2177, "mm": 2456.3}, "curved": {"n": 601, "mm": 961.1}}
+ },
+ "circles": [
+  {"c": [110.9, 335.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [123.1, 229.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [68.2, 229.6], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [75.0, 69.3], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [109.9, 358.8, 119.0, 364.1], "text": "SA1"},
+   {"mm": [141.6, 359.3, 152.9, 364.1], "text": "DUA"},
+   {"mm": [161.7, 359.3, 228.2, 364.1], "text": "800ST ER AMP FI ER"},
+   {"mm": [46.9, 278.3, 54.4, 286.0], "text": "os"},
+   {"mm": [128.0, 253.3, 212.7, 258.3], "text": "ISCE LLANE OUS COM PONENT"},
+   {"mm": [87.9, 212.9, 136.0, 218.2], "text": "14 in Dip Soc"},
+   {"mm": [232.1, 213.3, 258.4, 218.3], "text": "640357_3"},
+   {"mm": [103.4, 206.0, 146.6, 211.2], "text": "in Dip Sod\" et"},
+   {"mm": [232.1, 206.6, 258.4, 211.7], "text": "640463-3"},
+   {"mm": [47.5, 66.7, 54.8, 72.0], "text": "wa"},
+   {"mm": [66.9, 66.7, 100.8, 72.0], "text": "eco mmends"},
+   {"mm": [147.2, 66.7, 216.1, 72.0], "text": "ep lacemen part ma"},
+   {"mm": [228.6, 66.7, 263.4, 72.0], "text": "by he pe"},
+   {"mm": [274.4, 66.7, 278.9, 72.0], "text": "ie"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [47.3, 59.8, 123.3, 65.1], "text": "manu aClurers fO<' nt"},
+   {"mm": [147.2, 59.8, 168.0, 65.1], "text": "op ti mu"},
+   {"mm": [189.6, 59.8, 202.9, 65.1], "text": "ip me"},
+   {"mm": [214.6, 59.8, 256.3, 65.1], "text": "pe form anc\"."},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [110.9, 321.8], "r": 0.8, "lines": 0}, {"c": [121.1, 215.6], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–426 mm up",
+  "- **Outlines:** line 345 rings, 3,379 straight (7,142 mm) / 694 curved (1,136 mm); text 314 rings, 2,177 straight (2,456 mm) / 601 curved (961 mm)",
+  "- **Circles and arcs:** 4 circles, 0 arcs; largest r 2.1 @ (110.9, 335.7), r 2.1 @ (123.1, 229.6), r 2.1 @ (68.2, 229.6), r 1.6 @ (75.0, 69.3)",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 50 in 22 lines: SA1 · DUA · 800ST ER AMP FI ER · os · ISCE LLANE OUS COM PONENT · 14 in Dip Soc · 640357_3 · in Dip Sod\" et · 640463-3 · wa · eco mmends · ep lacemen part ma"
+ ]
+}

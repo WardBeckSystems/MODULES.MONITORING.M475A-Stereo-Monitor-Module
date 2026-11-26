@@ -1,0 +1,49 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 3,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p3.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "3", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 313.7, 422.1],
+ "outlines": {
+  "line": {"rings": 84, "straight": {"n": 1286, "mm": 3647.5}, "curved": {"n": 197, "mm": 342.5}},
+  "text": {"rings": 11, "straight": {"n": 67, "mm": 123.6}, "curved": {"n": 16, "mm": 27.5}}
+ },
+ "circles": [{"c": [174.8, 239.7], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [62.8, 417.3, 67.6, 421.9], "w": 4.7, "h": 4.5, "from": "ring"}],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [33.0, 415.4, 51.0, 421.4], "text": "WA~"},
+   {"mm": [87.9, 415.6, 97.6, 420.9], "text": "SY"},
+   {"mm": [109.0, 415.6, 126.5, 420.9], "text": "EMS"},
+   {"mm": [154.4, 236.0, 181.4, 241.0], "text": "SECTION"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 0–422 mm up",
+  "- **Outlines:** line 84 rings, 1,286 straight (3,648 mm) / 197 curved (342 mm); text 11 rings, 67 straight (124 mm) / 16 curved (27.5 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (174.8, 239.7)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 8 in 8 lines: WA~ · SY · EMS · SECTION · ps · BS · tp · ht"
+ ]
+}

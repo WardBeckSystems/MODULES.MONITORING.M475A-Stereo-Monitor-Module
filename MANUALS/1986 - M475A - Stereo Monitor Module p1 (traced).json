@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/36257bfbf2faa8d1-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 0.0, 306.1, 427.3],
+ "outlines": {
+  "line": {"rings": 36, "straight": {"n": 844, "mm": 3043.6}, "curved": {"n": 82, "mm": 125.0}},
+  "text": {"rings": 137, "straight": {"n": 1360, "mm": 1992.8}, "curved": {"n": 313, "mm": 537.7}},
+  "tb": {"rings": 40, "straight": {"n": 501, "mm": 732.2}, "curved": {"n": 98, "mm": 157.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [120.7, 406.1, 284.8, 415.7], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [51.2, 395.3, 172.5, 411.9], "text": "WBS TeleX 055-25399"},
+   {"mm": [207.5, 396.0, 282.0, 401.2], "text": "TELEPHCNE 416,438-655C"},
+   {"mm": [144.7, 237.9, 198.0, 252.6], "text": "M475A"},
+   {"mm": [112.5, 220.4, 232.5, 230.0], "text": "STEREO MoniToR MODULE"},
+   {"mm": [211.6, 60.5, 258.9, 67.4], "text": "MANUAL ISSUE"},
+   {"mm": [211.6, 47.5, 242.7, 54.0], "text": "MAY 1986"}
+  ]
+ },
+ "title_block": {
+  "mm": [44.5, 51.8, 265.7, 424.5],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD_", "WBS TeleX 055-25399", "TELEPHCNE 416,438-655C", "M475A", "STEREO MoniToR MODULE", "MANUAL ISSUE"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–306 mm across, 0–427 mm up",
+  "- **Outlines:** line 36 rings, 844 straight (3,044 mm) / 82 curved (125 mm); text 137 rings, 1,360 straight (1,993 mm) / 313 curved (538 mm); tb 40 rings, 501 straight (732 mm) / 98 curved (157 mm)",
+  "- **Words (OCR):** 15 in 7 lines: WAAD-BECK SYSTEMS LTD_ · WBS TeleX 055-25399 · TELEPHCNE 416,438-655C · M475A · STEREO MoniToR MODULE · MANUAL ISSUE · MAY 1986",
+  "- **Title block:** (44, 52)–(266, 424) mm: WAAD-BECK SYSTEMS LTD_ · WBS TeleX 055-25399 · TELEPHCNE 416,438-655C · M475A · STEREO MoniToR MODULE · MANUAL ISSUE"
+ ]
+}

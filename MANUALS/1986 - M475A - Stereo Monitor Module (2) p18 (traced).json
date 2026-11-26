@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [26.3, 19.0, 338.5, 343.9],
+ "outlines": {
+  "line": {"rings": 250, "straight": {"n": 2687, "mm": 6455.6}, "curved": {"n": 473, "mm": 666.9}},
+  "text": {"rings": 142, "straight": {"n": 912, "mm": 991.9}, "curved": {"n": 292, "mm": 384.9}}
+ },
+ "circles": [
+  {"c": [269.5, 106.8], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [258.7, 178.5], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [87.2, 272.5, 97.4, 296.6], "w": 10.1, "h": 24.2, "from": "ring"},
+  {"mm": [87.4, 247.4, 97.4, 271.8], "w": 9.9, "h": 24.4, "from": "ring"},
+  {"mm": [87.7, 222.2, 97.4, 246.8], "w": 9.7, "h": 24.6, "from": "ring"},
+  {"mm": [195.2, 224.6, 214.2, 234.9], "w": 19.0, "h": 10.3, "from": "ring"}
+ ],
+ "text": {
+  "words": 34,
+  "lines": [
+   {"mm": [271.8, 320.2, 285.4, 322.8], "text": "BOOST ER"},
+   {"mm": [141.6, 318.2, 164.9, 320.6], "text": "PRE AMPL IF IER"},
+   {"mm": [173.6, 318.2, 187.6, 320.6], "text": "MONITOR"},
+   {"mm": [177.7, 315.4, 185.2, 318.1], "text": "EVEL"},
+   {"mm": [269.9, 316.9, 287.1, 319.6], "text": "AMPL IFIER"},
+   {"mm": [26.6, 253.5, 40.6, 256.1], "text": "MON TOR"},
+   {"mm": [28.5, 249.8, 39.5, 252.4], "text": "INPU TS"},
+   {"mm": [35.0, 246.6, 39.3, 249.2], "text": "Bm"},
+   {"mm": [330.1, 188.3, 338.5, 199.1], "text": "liE-"},
+   {"mm": [39.5, 175.5, 55.5, 178.2], "text": "TALK BACK"},
+   {"mm": [58.1, 175.1, 98.2, 178.9], "text": "f--~'V'v--,"},
+   {"mm": [147.0, 171.0, 161.1, 173.6], "text": "SUMMI NG"},
+   {"mm": [174.9, 169.0, 185.7, 172.4], "text": "SOLo/T"},
+   {"mm": [145.3, 167.5, 160.2, 170.2], "text": "AMPL IE"},
+   {"mm": [176.4, 166.0, 185.9, 168.7], "text": "LE VEL"},
+   {"mm": [45.6, 157.2, 52.9, 159.8], "text": "SOLO"},
+   {"mm": [46.2, 153.7, 54.2, 156.1], "text": "NPUT"},
+   {"mm": [41.9, 103.0, 55.7, 109.5], "text": "C~T~~"},
+   {"mm": [279.4, 106.7, 286.9, 109.3], "text": "SOLO"},
+   {"mm": [287.4, 59.6, 308.5, 68.7], "text": "ps"},
+   {"mm": [275.7, 48.1, 297.7, 59.7], "text": "BS"},
+   {"mm": [253.0, 25.5, 271.8, 32.7], "text": "tp"},
+   {"mm": [245.9, 18.1, 267.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 26–338 mm across, 19–344 mm up",
+  "- **Outlines:** line 250 rings, 2,687 straight (6,456 mm) / 473 curved (667 mm); text 142 rings, 912 straight (992 mm) / 292 curved (385 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.9 @ (269.5, 106.8), r 2.9 @ (258.7, 178.5)",
+  "- **Closed boxes:** 4",
+  "- **Words (OCR):** 34 in 23 lines: BOOST ER · PRE AMPL IF IER · MONITOR · EVEL · AMPL IFIER · MON TOR · INPU TS · Bm · liE- · TALK BACK · f--~'V'v--, · SUMMI NG"
+ ]
+}

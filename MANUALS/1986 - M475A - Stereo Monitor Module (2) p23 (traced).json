@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/2cfeb881b570129b-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.1, 313.7, 427.3],
+ "outlines": {
+  "line": {"rings": 94, "straight": {"n": 1464, "mm": 3699.1}, "curved": {"n": 265, "mm": 474.9}},
+  "text": {"rings": 16, "straight": {"n": 140, "mm": 194.3}, "curved": {"n": 31, "mm": 53.5}}
+ },
+ "circles": [{"c": [170.8, 238.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [{"mm": [137.3, 417.8, 140.6, 419.9], "w": 3.2, "h": 2.2, "from": "ring"}],
+ "text": {
+  "words": 7,
+  "lines": [
+   {"mm": [44.0, 415.6, 118.3, 420.6], "text": "Flo·eE Cl< SYSTEM"},
+   {"mm": [281.3, 65.6, 302.5, 74.7], "text": "ps"},
+   {"mm": [269.7, 54.0, 291.7, 65.5], "text": "BS"},
+   {"mm": [247.0, 31.3, 265.8, 38.5], "text": "tp"},
+   {"mm": [239.9, 24.2, 261.0, 31.4], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–314 mm across, 4–427 mm up",
+  "- **Outlines:** line 94 rings, 1,464 straight (3,699 mm) / 265 curved (475 mm); text 16 rings, 140 straight (194 mm) / 31 curved (53.5 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (170.8, 238.8)",
+  "- **Closed boxes:** 1",
+  "- **Words (OCR):** 7 in 5 lines: Flo·eE Cl< SYSTEM · ps · BS · tp · ht"
+ ]
+}

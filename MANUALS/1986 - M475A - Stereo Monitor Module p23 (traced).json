@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/MONITORING/M475A/MANUALS/1986 - M475A - Stereo Monitor Module.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/36257bfbf2faa8d1-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "31"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 4.1, 303.6, 427.3],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 819, "mm": 2764.7}, "curved": {"n": 100, "mm": 167.2}},
+  "text": {"rings": 67, "straight": {"n": 622, "mm": 777.2}, "curved": {"n": 148, "mm": 262.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [29.1, 415.6, 142.9, 422.6], "text": "WAAD-BECX Systems LTD"},
+   {"mm": [148.5, 235.5, 177.0, 242.5], "text": "SECTION"},
+   {"mm": [118.7, 222.2, 164.1, 229.1], "text": "MODULES AND"},
+   {"mm": [166.5, 222.4, 218.5, 229.1], "text": "SUBASSEMBL IES"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–304 mm across, 4–427 mm up",
+  "- **Outlines:** line 28 rings, 819 straight (2,765 mm) / 100 curved (167 mm); text 67 rings, 622 straight (777 mm) / 148 curved (262 mm)",
+  "- **Words (OCR):** 6 in 4 lines: WAAD-BECX Systems LTD · SECTION · MODULES AND · SUBASSEMBL IES"
+ ]
+}
