@@ -22,7 +22,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Title block:** (208, 49)–(337, 74) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 39 connected wire groups from 217 runs; labelled ends: 127 mm → 68/10, R20, 15k; 115 mm → R28, 10k, C16, 4P7; 115 mm → R22, 10k, R21, 82k; 101 mm → C19, 220/10, R29, 10k; 100 mm → NESSSAN, R29, 10k, R28
 
-Every curve, box, word and wire group: [1986 - M475A - 14-140-02-001 - NOTES ALL RESISTORS ARE (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%2014-140-02-001%20-%20NOTES%20ALL%20RESISTORS%20ARE%20(traced).json) (the CAD file: `1986 - M475A - 14-140-02-001 - NOTES ALL RESISTORS ARE (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - 14-140-02-001 - NOTES ALL RESISTORS ARE (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%2014-140-02-001%20-%20NOTES%20ALL%20RESISTORS%20ARE%20%28traced%29.json) (the CAD file: `1986 - M475A - 14-140-02-001 - NOTES ALL RESISTORS ARE (traced).dxf`).
 
 ## Full text
 

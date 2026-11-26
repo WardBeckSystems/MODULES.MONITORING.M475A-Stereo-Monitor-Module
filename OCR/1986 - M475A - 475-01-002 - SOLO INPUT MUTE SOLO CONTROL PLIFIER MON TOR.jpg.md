@@ -22,7 +22,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Words (OCR):** 24 in 24 lines: MoniToR · BOOSTER · PREAMPL IFiER · LeveL · AMPLIF IER · EXT · SEL · 53 L · MoniToR · inPuTS · dBm · 51 L
 - **Wiring (first pass):** 63 connected wire groups from 223 runs; labelled ends: 123 mm → AMPLIFIER, SOLO, inpuT; 114 mm → EXT; 76 mm → BOOSTER, AMPLIF IER; 19 mm → 51 L; 18 mm → 53 L
 
-Every curve, box, word and wire group: [1986 - M475A - 475-01-002 - SOLO INPUT MUTE SOLO CONTROL PLIFIER MON TOR (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-01-002%20-%20SOLO%20INPUT%20MUTE%20SOLO%20CONTROL%20PLIFIER%20MON%20TOR%20(traced).json) (the CAD file: `1986 - M475A - 475-01-002 - SOLO INPUT MUTE SOLO CONTROL PLIFIER MON TOR (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - 475-01-002 - SOLO INPUT MUTE SOLO CONTROL PLIFIER MON TOR (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-01-002%20-%20SOLO%20INPUT%20MUTE%20SOLO%20CONTROL%20PLIFIER%20MON%20TOR%20%28traced%29.json) (the CAD file: `1986 - M475A - 475-01-002 - SOLO INPUT MUTE SOLO CONTROL PLIFIER MON TOR (traced).dxf`).
 
 ## Full text
 

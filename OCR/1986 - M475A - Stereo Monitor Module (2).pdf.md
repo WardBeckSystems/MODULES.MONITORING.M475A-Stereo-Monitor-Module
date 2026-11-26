@@ -23,7 +23,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Closed boxes:** 2
 - **Words (OCR):** 25 in 17 lines: [VVB · YS TE · Ill.. <><>c::::GRl! · "VE · SC>P~ ONT"""O · oe~·2!:1399 · .,.."UOP'-<lNE · ;38 -1!I:!1SO · M475A · ST ER · ONIT OR · DUL
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p1 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p1%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p1 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 85 in 39 lines: FlO- · CK YSTEMS LT · T"B LE OF CONTENTS · 101475" STEREO MON ITOR MODUL · Wa ,.ant · Tec hn ical Da · Genera · D~"at lona Descript ion · Ci.-.cuit Dasc:,. lption · 104-3 · 5_5 · Connector La you
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p2 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p2%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p2 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 1
 - **Words (OCR):** 8 in 8 lines: WA~ · SY · EMS · SECTION · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p3 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p3%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p3 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 232 in 96 lines: CK · YS TE MS TO. · TE CHNI AL DATA · M<'75A STEREO MONITOR MODULE · No te: Speci icat · re ba sed On · ltag · of · 600 ohm sys te · un · th erw ise sp ecifi · Mon lor'
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p4 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p4%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p4 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 252 in 107 lines: D-S ECK SYSTEMS LTC · M475A ST ER EO MONIT OR MODULE · te · moni to ,.ing · il · fo" · the LZ 04Z L324Z an · Z04 2A/L3242A · r-ie · io con les a"e p,.ov · by · M4 75A
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p5 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p5%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p5 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -79,7 +79,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 219 in 74 lines: WAFIO-BECK YS EM · LT · OPER AT IONA OESCR IPT ION · M475A STE REO MONI TOR MOOUL · LI..b · 80 modu le sour-ce sel ections Odd numbe"ed ou r-ces · Sl lg · 10 Ih<= le · channel · even numbered ou r-ce · are lll igned to Ihe · Slh channe
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p6 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p6%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p6 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Words (OCR):** 371 in 164 lines: WARD-SECK SYS EM · LTC · IRCUIT OESC IP ION · M47 5A · STE~EO MON ITOR MODULE · iv · re<> In · are fed th roug · te lod · se lecto · SWt. · he balanced le
 - **Title block:** (26, 183)–(139, 427) mm: WARD-SECK SYS EM · LTC · M47 5A · iv · re<> In · he balanced le · cha nnel · ff er amp if ier · ro gh C7 · C8 to · uff · bu ff · mp if ie · outp · le re<> le\lel con tro · 15/RI · left · rig · R15/R16
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p7 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p7%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p7 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 381 in 160 lines: F<O · ST EM · LT · CIRCUIT DESCR IP ION · M47SA STEREO MON ITOR MODULE · he mono control signa · appe ring at · J2 pin · of th · SA14_ 140 · mb ly and · er iv ed
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p8 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p8%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p8 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -111,7 +111,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (201.2, 375.6), r 1.7 @ (79.8, 308.7), r 1.6 @ (176.5, 315.1)
 - **Words (OCR):** 60 in 34 lines: WA;:::; · CX: YST MS LTD. · CI RCU · DESCR IPT ION · M4 SA STEREO · ONITOR MOOUL · Th · ~oup ed · ~18 II olt upply IIol ge ow ers · audio · itry · of th
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p9 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p9%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p9 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -122,7 +122,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 157 in 93 lines: WA;:; · SYS · L.TC · "'''15''' · ST i'l: EO MON ITOR MODUL!:: · MFG PART NUMBE1'l · cr · Caoac; llor · 4..7 uF /IO · Kernel · T3908 475"'0 IOAS · C2
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p10 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p10%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p10 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -133,7 +133,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 41 in 39 lines: LARD · tatrha · AE · 0a7i StereC Jomitca · UCCILE · DEscrIFTiON · 4uYBER · Capacitor · uf /100 · Faoa · cic 7aioydscE · uian
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p11 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p11%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p11 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 1
 - **Words (OCR):** 69 in 42 lines: J10 · Cl< · Y9Tl:: MS LT · MI&75A STEREO MON ITOR MOOut.E · MF PMn NUMBE;!; · DESCRIP TION · Res l,~tor lf4 5S · R15 · AlB · R16 · Potent Iometer · Re sistor
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p12 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p12%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p12 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -154,7 +154,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 2.1 @ (171.0, 364.2), r 2.1 @ (186.6, 364.3), r 2.1 @ (109.0, 337.3)
 - **Words (OCR):** 79 in 60 lines: IoI47S · S'~RE MONITOR · MoaUL:: · "'ART NUMBE · Re stor · 4W · P",i,liPS · ROO · 'OK · RSO · OK · AS'
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p13 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p13%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p13 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p13 (traced).dxf`).
 
 ### Page 14
 
@@ -165,7 +165,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 2
 - **Words (OCR):** 124 in 59 lines: Ai=l O-B ECX: YST MS LT · Ma7 · STEREO MON ITOR MODut.l:: · MISCELLANEOUS COMPO EN TS · USIO- · ON · MFG · PART NUMBER · R15.R16 · Kn ob · del · 021 _3520
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p14 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p14%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p14 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p14 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p14%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p14 (traced).dxf`).
 
 ### Page 15
 
@@ -175,7 +175,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 44; named: 10; 11; 12; 13; 14; 15; 16; 17; 18; 19; 20; 21
 - **Words (OCR):** 137 in 93 lines: WARD · EC · LTD · CONNECTOR LAYOUT · M4 75A STEREO MON ITOR MODU · INP UT · IGHT · INPUT · IGHT · INP UT · EF · INPUT
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p15 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p15%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p15 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p15 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p15%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p15 (traced).dxf`).
 
 ### Page 16
 
@@ -186,7 +186,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 13; named: SA lIr.O DUAL UOOSTE AMPLI FI ER SUBASSE; SA lIr.O DUAL UOOSTE AMPLI FI ER SUBASSE
 - **Words (OCR):** 13 in 9 lines: CD~-- · SA · lIr.O · DUAL UOOSTE AMPLI FI ER · SUBASSEMBLY · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p16 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p16%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p16 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p16 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p16%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p16 (traced).dxf`).
 
 ### Page 17
 
@@ -199,7 +199,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Words (OCR):** 24 in 17 lines: W8S · M47SA · (Dl-- · scio/re · ir8 · CD · MOO · ps · [VVBSJ WARD-BECK SYSTEMS · BS · 'M4 · STEREO MONITOR MOD ULE
 - **Title block:** (240, 48)–(333, 69) mm: ps · [VVBSJ WARD-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p17 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p17%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p17 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p17 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p17%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p17 (traced).dxf`).
 
 ### Page 18
 
@@ -210,7 +210,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 4
 - **Words (OCR):** 34 in 23 lines: BOOST ER · PRE AMPL IF IER · MONITOR · EVEL · AMPL IFIER · MON TOR · INPU TS · Bm · liE- · TALK BACK · f--~'V'v--, · SUMMI NG
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p18 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p18%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p18 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p18 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p18%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p18 (traced).dxf`).
 
 ### Page 19
 
@@ -222,7 +222,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Words (OCR):** 27 in 18 lines: BOOSTER · AMPl.. 1F ER · LEFT · OUTPU · dBm · .rjIv--o · MUTED · SOl..O · ps · (VVE3sJ WARe-BECK SYSTEMS · BS · M475A
 - **Title block:** (240, 46)–(332, 68) mm: ps · (VVE3sJ WARe-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p19 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p19%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p19 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p19 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p19%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p19 (traced).dxf`).
 
 ### Page 20
 
@@ -232,7 +232,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 15; named: 14- 140 DUAL BOOSTER AMPLIf iER
 - **Words (OCR):** 62 in 44 lines: R,,~S~~~;T~d · UIo'LESS 1!i[Jl WlSE SPE Clfl EO · UF · ST CCl'IPOl'IENT DESlCN" Ol'lS' · CJlI. CR10. · csa K2. RG5. · SW7 · USEPC81 1JlI · LEfT · 14- 140 · DUAL · BOOSTER
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p20 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p20%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p20 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p20 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p20%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p20 (traced).dxf`).
 
 ### Page 21
 
@@ -246,7 +246,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Title block:** (245, 40)–(338, 62) mm: BS SYSTEMS · VVE3S] WARD-BECK
 - **Wiring (first pass):** 71 connected wire groups from 663 runs; labelled ends: 353 mm → cso, 22, CJZ, /25; 142 mm → 11, RZ-~~W-C; 105 mm → C3J, 0.1/1, 000,1/, 1000.1/100; 65 mm → C34, CJa, 00, 1/1; 49 mm → CJl, 22/2, 0.1/1
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p21 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p21%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p21 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p21 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p21%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p21 (traced).dxf`).
 
 ### Page 22
 
@@ -259,7 +259,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Words (OCR):** 27 in 21 lines: R~Sl.§C · A3 · 1I 00~ · 2ZP · 22 · 22K · A37 · CR71!:!.-+003 · ....eRa · !!:!.4Cm · ~~100 · ps
 - **Title block:** (241, 46)–(334, 67) mm: ps · VVSSJ WARe-BECK SYSTEMS · BS
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p22 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p22%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p22 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p22 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p22%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p22 (traced).dxf`).
 
 ### Page 23
 
@@ -270,7 +270,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 1
 - **Words (OCR):** 7 in 5 lines: Flo·eE Cl< SYSTEM · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p23 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p23%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p23 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p23 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p23%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p23 (traced).dxf`).
 
 ### Page 24
 
@@ -281,7 +281,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 1
 - **Words (OCR):** 14 in 8 lines: WARc ee CK YS i:MS LTC · ps · su eNl · BS · Ma · 1986 · tp · ht
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p24 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p24%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p24 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p24 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p24%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p24 (traced).dxf`).
 
 ### Page 25
 
@@ -292,7 +292,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 1
 - **Words (OCR):** 190 in 82 lines: IRCU IT DESCR IP TIO · 14_1 40 DUAL BOOSTER · MPLIFIER · Progr · Sol · Sw itc ng · Ul,U2 li · VJ fo rm soud srere · tc es · he cont ro · of th · tches
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p25 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p25%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p25 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p25 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p25%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p25 (traced).dxf`).
 
 ### Page 26
 
@@ -301,7 +301,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Outlines:** line 579 rings, 4,622 straight (8,004 mm) / 1,264 curved (1,980 mm); text 523 rings, 3,938 straight (4,548 mm) / 1,212 curved (1,902 mm)
 - **Words (OCR):** 144 in 78 lines: WA~O 'BECK SYS TE MS LTD · 5.0.14_ 140 QUAL BOOST ER AMPLIF ER · DESCR IPT IO · MF · PART NUMBER · ap ~ci lO<"" · 10 uf /25 · T39OC I06MOZSAS · C2 · 10 uF /25 · 10 F/25 · CO
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p26 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p26%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p26 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p26 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p26%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p26 (traced).dxf`).
 
 ### Page 27
 
@@ -313,7 +313,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 1
 - **Words (OCR):** 62 in 45 lines: WAFl · SYSTEM · LTO · SA14_140 DUAL BOOSTER AMPLIFIER · MF PAIlT NUMBER · DESCR IPTION · Re sl · 1/4'1 · 51 J3" · Ph~lips · 33K · J3K
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p27 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p27%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p27 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p27 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p27%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p27 (traced).dxf`).
 
 ### Page 28
 
@@ -324,7 +324,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Dots (junctions):** 2
 - **Words (OCR):** 50 in 22 lines: SA1 · DUA · 800ST ER AMP FI ER · os · ISCE LLANE OUS COM PONENT · 14 in Dip Soc · 640357_3 · in Dip Sod" et · 640463-3 · wa · eco mmends · ep lacemen part ma
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p28 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p28%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p28 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p28 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p28%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p28 (traced).dxf`).
 
 ### Page 29
 
@@ -334,7 +334,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Closed boxes:** 21; named: C04016; 13; 10; U3 C040'6N; 13
 - **Words (OCR):** 106 in 84 lines: +12 · P2 · 01 · LEFT · INPUT · 10 25 · 15K · 03 · 41<7 · C04016 · 010- · 4P7
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p29 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p29%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p29 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p29 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p29%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p29 (traced).dxf`).
 
 ### Page 30
 
@@ -347,7 +347,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Title block:** (242, 50)–(336, 72) mm: ps · [\NBS] WARD-BECK SYSTEMS · BS
 - **Wiring (first pass):** 41 connected wire groups from 263 runs; labelled ends: 134 mm → C17, 10K; 126 mm → .20, C7, 68, 10; 125 mm → Cl0-, 10K; 113 mm → R2, 10K, C9, 01'; 105 mm → Cl0-, 10K
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p30 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p30%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p30 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p30 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p30%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p30 (traced).dxf`).
 
 ### Page 31
 
@@ -360,7 +360,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2)
 - **Words (OCR):** 20 in 12 lines: 10/ 25 · 1012S · [vvssJ WARe-BECK SYSTEMS · ps · BS · SA 14-140 · DUAL BOOSTER AMPLIFIER · COMPONENT LAYOUT · tp · ht · 14-140 -06-001 · ISS.1
 - **Title block:** (242, 53)–(336, 74) mm: [vvssJ WARe-BECK SYSTEMS · ps · BS
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p31 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2)%20p31%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p31 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module (2) p31 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20%282%29%20p31%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module (2) p31 (traced).dxf`).
 
 ## Full text
 

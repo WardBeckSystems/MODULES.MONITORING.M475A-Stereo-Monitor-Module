@@ -23,7 +23,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Title block:** (211, 39)–(338, 64) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 67 connected wire groups from 575 runs; labelled ends: 1203 mm → RJO, J-1,2, 310, +18v; 358 mm → CJZ, 22/25, C36, 0.1/100; 303 mm → 2k2 }, R47, Zw-c, RSB; 216 mm → TN2102, +18V, 22/25, CJZ; 193 mm → C3}, 22/25, 0./100, C39
 
-Every curve, box, word and wire group: [1986 - M475A - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-02-002%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `1986 - M475A - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-02-002%20-%20STEREO%20MONITOR%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `1986 - M475A - 475-02-002 - STEREO MONITOR MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

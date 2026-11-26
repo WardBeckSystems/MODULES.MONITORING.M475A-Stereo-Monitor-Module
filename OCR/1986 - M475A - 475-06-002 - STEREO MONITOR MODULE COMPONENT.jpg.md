@@ -21,7 +21,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Words (OCR):** 136 in 123 lines: ~n10 · 7/10 · 4K · R39 2K · R38 · 7/10 · 22k · 7/10 · 22K · Z2P · 22k · 31222k
 - **Title block:** (97, 45)–(334, 251) mm: R52 · 39K · ISSUE · 22/25 · R2z · R48 · C2z · R46 · SVI · CR4 · R18 % · 4OK · R26 · Cr4z 22k · R45 · RZ-245-C · R25 · R3o · 8 8 8 · C33 · R2o K R23 · LOK · R28 · CR6 I746 · J2-1 · Sok · R27 · R47 · 2k
 
-Every curve, box, word and wire group: [1986 - M475A - 475-06-002 - STEREO MONITOR MODULE COMPONENT (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-06-002%20-%20STEREO%20MONITOR%20MODULE%20COMPONENT%20(traced).json) (the CAD file: `1986 - M475A - 475-06-002 - STEREO MONITOR MODULE COMPONENT (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - 475-06-002 - STEREO MONITOR MODULE COMPONENT (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-06-002%20-%20STEREO%20MONITOR%20MODULE%20COMPONENT%20%28traced%29.json) (the CAD file: `1986 - M475A - 475-06-002 - STEREO MONITOR MODULE COMPONENT (traced).dxf`).
 
 ## Full text
 

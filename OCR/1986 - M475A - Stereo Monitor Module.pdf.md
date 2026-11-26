@@ -22,7 +22,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Words (OCR):** 15 in 7 lines: WAAD-BECK SYSTEMS LTD_ · WBS TeleX 055-25399 · TELEPHCNE 416,438-655C · M475A · STEREO MoniToR MODULE · MANUAL ISSUE · MAY 1986
 - **Title block:** (44, 52)–(266, 424) mm: WAAD-BECK SYSTEMS LTD_ · WBS TeleX 055-25399 · TELEPHCNE 416,438-655C · M475A · STEREO MoniToR MODULE · MANUAL ISSUE
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p1 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p1%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p1 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p1%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -31,7 +31,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p1 
 - **Outlines:** line 40 rings, 1,061 straight (3,680 mm) / 138 curved (208 mm); text 619 rings, 4,413 straight (5,060 mm) / 1,326 curved (2,101 mm)
 - **Words (OCR):** 62 in 48 lines: WAAD-BECX systems LTC · TABLE · OFCONTENTS · M475A STEREO MON TOR MODULE · SECTION · PAGE · Warranty · Frame · Main · Technical Data · I-1 · General
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p2 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p2%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p2 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p2%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -40,7 +40,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p2 
 - **Outlines:** line 28 rings, 733 straight (2,825 mm) / 72 curved (120 mm); text 49 rings, 442 straight (578 mm) / 98 curved (164 mm)
 - **Words (OCR):** 6 in 4 lines: WAAD-BeCX Systems · LTC · SECTION · MA IN FRAME
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p3 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p3%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p3 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p3%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -51,7 +51,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p3 
 - **Dots (junctions):** 2
 - **Words (OCR):** 190 in 103 lines: systems · LTD_ · TECHNICAL DATA · M475A STEREO MONITOR MODULE · Note: Specifications are · based on · voltage · Tevels of · 600 ohm · system unless · otherwise specified · Gain:
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p4 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p4%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p4 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p4%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -61,7 +61,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p4 
 - **Words (OCR):** 184 in 76 lines: WAAD-BECX systems LTC · GENERAL · ML75A STEREO MON TOR · MODULE · Stereo monitoring facilities for the · L2042/13242 and · L2042A /L3242A · series audio consoles are · provided by the · ML75A Stereo Monitor · Module. · The ML7SA is
 - **Title block:** (79, 172)–(302, 431) mm: WAAD-BECX systems LTC · GENERAL · ML75A STEREO MON TOR · MODULE · Stereo monitoring facilities for the · L2042/13242 and · L2042A /L3242A · series audio consoles are · provided by the · ML75A Stereo M
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p5 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p5%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p5 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p5%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -71,7 +71,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p5 
 - **Dots (junctions):** 1
 - **Words (OCR):** 164 in 84 lines: WAAD-BECk systems · OPERATIONAL DESCRIPTION · ML7SA STEREO MONITOR · MODULE · DESIGNATION · Labels stereo module source · selections. Odd numbered sources · are · assigned to · the Teft channel and even · numbered sources · are
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p6 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p6%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p6 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p6%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -81,7 +81,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p6 
 - **Dots (junctions):** 1
 - **Words (OCR):** 290 in 138 lines: WAFD-EECX systems LtD_ · CIRcuIT · DESCRIPT ION · MODULE · M47SA STEREO MONITOR · Ineuts · Five stereo · inputs are · fed through · interlocking selector switch · The balanced left channel · input is
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p7 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p7%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p7 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p7%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -91,7 +91,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p7 
 - **Dots (junctions):** 2
 - **Words (OCR):** 307 in 146 lines: WAAC-EECX Systems LTD_ · CIRcUIT DESCRiPTION · ML75A STEREO MON · TOR · MODULE · The mono · control · signal · appearing at · J2 pin · of the · SA1L-140
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p8 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p8%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p8 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p8%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -101,7 +101,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p8 
 - **Dots (junctions):** 1
 - **Words (OCR):** 49 in 24 lines: WAAC-EECX Systems · CIRcuiT DESCRIPT ION · ML7SA STEREO MON TOR · MODULE · The decoupled · +/-18 volt supply · voltage powers · the audio circui · try · of the M475A _ · The common return · for the
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p9 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p9%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p9 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p9%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -111,7 +111,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p9 
 - **Dots (junctions):** 1
 - **Words (OCR):** 145 in 130 lines: WAFC-=ECX Systems Lt_ · PARTS List · ML7SA STEREO · MONITOR · MODULE · PART DescRiPTION · MFG PART · NUMBER · MFG · Capacitor L.7 · uF/10 · Kemet
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p10 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p10%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p10 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p10%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p10
 - **Outlines:** line 193 rings, 1,598 straight (4,380 mm) / 321 curved (524 mm); text 630 rings, 4,918 straight (5,717 mm) / 1,374 curved (2,228 mm)
 - **Words (OCR):** 107 in 90 lines: PARTS LiST · ML7SA STEREO MONITOR · MODULE · PART DESCRIPT ION · MFG · MFG PART NUMBER · C36 · Capacitor 0.1 · uF/100 · Sprague · 1CIOXZRIOLMOSOB · C37
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p11 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p11%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p11 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p11%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -130,7 +130,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p11
 - **Words (OCR):** 98 in 89 lines: WAAD-BECX Systems LtC · PARTS LiST · M47SA STEREO MON · TOR · MODULE · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R11 · Resistor
 - **Title block:** (23, 85)–(251, 427) mm: WAAD-BECX Systems LtC · PARTS LiST · M47SA STEREO MON · TOR · MODULE · PART · DESCRIPTION · MFG · MFG PART · R11 · Resistor · 1/4w · 59 22k · Philips · R1z · 22k · R13 · 22k · R1L · 9k1 · R1S) Potenti
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p12 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p12%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p12 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p12%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p12
 - **Words (OCR):** 105 in 90 lines: WAAC-SECX Systems · PARTS · List · ML7SA · STEREO MON TOR · MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · R46 · Resistor
 - **Title block:** (24, 146)–(251, 431) mm: WAAC-SECX Systems · PARTS · List · ML7SA · STEREO MON TOR · MODULE · PART DESCRIPTION · MFG · MFG PART · R46 · Resistor · 1/Lw · 4K? · Philips · R47 · 1/2w · 53 2k2 · R48 · 1/4w · 596 10k · RL9 · 2k2 
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p13 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p13%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p13 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p13%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -150,7 +150,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p13
 - **Words (OCR):** 88 in 59 lines: WAAC-SECX Systems LTC · PARTS List · M47SA · STEREO MON TOR MODULE · MISCELLANEQUS_COMPONENTS · USED ON DESCRIPTION · MFG · MFG PART NUMBER · R1S,R16 · Knob · (Black ) · Elma
 - **Title block:** (38, 49)–(203, 428) mm: WAAC-SECX Systems LTC · PARTS List · M47SA · STEREO MON TOR MODULE · MISCELLANEQUS_COMPONENTS · USED ON DESCRIPTION · MFG · R1S,R16 · Knob · (Black ) · Elma · Cap (Grey/White) · RLo · Knob · (Black) ·
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p14 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p14%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p14 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p14%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -161,7 +161,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p14
 - **Dots (junctions):** 2
 - **Words (OCR):** 110 in 68 lines: Systems LTD_ · WAAD-BECX · CONNECTOR LAYoUT · ML7SA STEREO MONITOR · MODULE · INPUT RIGHT · INPUT RIGHT · iNPuT LEFT · INPuT Left · inPUT RIGHT · INPUT RIGHT · INPUT Left
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p15 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p15%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p15 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p15%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -172,7 +172,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p15
 - **Closed boxes:** 12; named: CANADA 14-139 S414-140 DUAL DOOSTER AMPL; S414-140 DUAL DOOSTER AMPLIFIER SUBASSEM
 - **Words (OCR):** 11 in 9 lines: CANADA · 14-139 · DUAL DOOSTER AMPLIFIER · S414-140 · SUBASSEMOLY · J2_ · JI-1 · SW? · 5w/6
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p16 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p16%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p16 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p16%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -184,7 +184,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p16
 - **Words (OCR):** 14 in 10 lines: WBS · MA7SA · SOLO/ TB · MON · WBS WARD-BECK SYSTEMS · M475A · STEREO MoniTOR MODULE · MODULE LAYoUT · 475-04-004 · ISS.
 - **Title block:** (102, 46)–(333, 319) mm: WBS · MA7SA · SOLO/ TB · MON · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p17 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p17%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p17 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p17%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -195,7 +195,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p17
 - **Closed boxes:** 4
 - **Words (OCR):** 23 in 23 lines: MON · Tor · BOOSTER · PREAMPLIF IER · LEVEL · AMPLIFIER · EXI · SEL · MoniToR · INPUTS · aBm · MONO
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p18 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p18%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p18 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p18%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -208,7 +208,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p18
 - **Title block:** (207, 46)–(333, 70) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 41 connected wire groups from 135 runs; labelled ends: 100 mm → DTRECT; 70 mm → boosteR, AAPL, IFIER; 25 mm → MUTEd; 24 mm → DTRECT, MUTED; 20 mm → MUTED
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p19 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p19%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p19 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p19%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -218,7 +218,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p19
 - **Closed boxes:** 13; named: 5A14-140 DUAL BOOSTER AMPLIFIER
 - **Words (OCR):** 137 in 131 lines: NDIES: · ALL RESISTORS · V4w 57 · UNLESS OTHERWSE   SPECIFIED. · LST · COMPONENT DESIGNATONS: · 47/10 · CRIC, · K2, 09. R65. · U1A · USE PcA · LMBJJN
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p20 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p20%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p20 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p20%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -232,7 +232,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p20
 - **Title block:** (210, 39)–(338, 64) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 62 connected wire groups from 571 runs; labelled ends: 1294 mm → R29, RjO, J1-1,2, 3+.0; 353 mm → 22/25, C34, C36, C3B; 215 mm → TN2102, 22/25, C34, C36; 206 mm → R5B, <r59, 10*; 190 mm → 22/25, 0.1/100, C39, CR1O
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p21 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p21%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p21 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p21%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -244,7 +244,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p21
 - **Words (OCR):** 155 in 136 lines: SVS · 4.7/10 · 7/10 · R59 22k · 1k · 7/10 · 22k · 7/10 · R6 22K · 22p · 22k · Ek
 - **Title block:** (97, 44)–(335, 251) mm: TN2Za2 · R32 39k · 39k · ISSUE · 22/25 · R2i · R2z · R31 · R48 · C2z · R46 I4005 · SV1 · CR4 · R18 · R43 3OK · R26 · Rzs · R4z e2k · R1z % · R3o · 8 8 ? & & · R2? · R4S 1N4o03 · c33 · R2o * R23 · 10K 
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p22 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p22%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p22 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p22%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -253,7 +253,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p22
 - **Outlines:** line 28 rings, 819 straight (2,765 mm) / 100 curved (167 mm); text 67 rings, 622 straight (777 mm) / 148 curved (262 mm)
 - **Words (OCR):** 6 in 4 lines: WAAD-BECX Systems LTD · SECTION · MODULES AND · SUBASSEMBL IES
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p23 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p23%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p23 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p23%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -263,7 +263,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p23
 - **Words (OCR):** 10 in 4 lines: WAAC-EEcx Systems LTC_ · 5A14-140 DUAL BOOSTER AMPLIF IER · Issue #1 · May 1986
 - **Title block:** (81, 50)–(267, 431) mm: WAAC-EEcx Systems LTC_ · 5A14-140 DUAL BOOSTER AMPLIF IER · Issue #1 · May 1986
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p24 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p24%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p24 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p24%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -272,7 +272,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p24
 - **Outlines:** line 59 rings, 1,242 straight (3,674 mm) / 176 curved (296 mm); text 1,135 rings, 7,823 straight (8,731 mm) / 2,449 curved (3,771 mm)
 - **Words (OCR):** 161 in 76 lines: WAAD-BECX systems · CIRcUIT DESCRIPTION · SA1L-140 DUAL · BOOSTER AMPLIFIER · Program Solo Swi · tching · U1,u2 and · u3 form solidstate switches. The control · of these switches · determine: · The passage · of the
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p25 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p25%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p25 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p25%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -282,7 +282,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p25
 - **Dots (junctions):** 1
 - **Words (OCR):** 132 in 113 lines: LTD · PARTS LiST · SA14-140 DUAL BOOSTER · AMPLIFIER · PART DESCRIPTION · MFG · MFG PART NUMBER · C1 · Capacitor · 10 uF/25 · Kemet · T390C 106MO25AS
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p26 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p26%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p26 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p26%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -292,7 +292,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p26
 - **Words (OCR):** 94 in 86 lines: WAAD-BECK systems LTD; · PARTS LiST · SA14-140 · DUAL BOOSTER · AMPLIFIER · PART · DESCRIPTION · MFG · MFG PART · NUMBER · R6 · Resistor /4w
 - **Title block:** (20, 404)–(130, 428) mm: WAAD-BECK systems LTD;
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p27 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p27%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p27 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p27%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -302,7 +302,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p27
 - **Words (OCR):** 60 in 46 lines: WAAC-SECX Systems LTD · PARTS LIST · SA14-140 · DUAL BOOSTER AMPLIFIER · DESCRIPTION · MFG · PARI NUMBER · FART · MFG · U1 · circuit · National
 - **Title block:** (27, 58)–(155, 430) mm: WAAC-SECX Systems LTD · SA14-140 · DESCRIPTION · FART · U1 · circuit · Intergrated · u2 · u3 · Ub · u5 · u6 · u7 · MISCELLANEOuS · USED ON · DESCRIPT ION · U1-u3 · 14 · Pin · Dip Socket · UL-U7 · Pin 
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p28 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p28%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p28 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p28%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -312,7 +312,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p28
 - **Closed boxes:** 21; named: CD4016N; U2 CD4O16N; U3 CD4O16N
 - **Words (OCR):** 132 in 126 lines: +12v · P2 · LEFT · 22P · INPUT · NESS3AN · +18V · 10/25 · U4 · 1BV · JJK · CD4016N
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p29 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p29%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p29 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p29%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -325,7 +325,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p29
 - **Title block:** (209, 49)–(337, 74) mm: WBS WAAD-BECK SYSTEMS
 - **Wiring (first pass):** 39 connected wire groups from 214 runs; labelled ends: 134 mm → 22P, NESSSAN, R29, 10K; 126 mm → R3?, 68/10; 125 mm → 22P, NESSJAN, Cio, 4P7; 113 mm → R22, 10K, 4P7, R21; 105 mm → C12, 220/10, Cio, 4P7
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p30 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p30%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p30 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p30%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -337,7 +337,7 @@ Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p30
 - **Words (OCR):** 66 in 57 lines: 10/25 · 10/25 · 10/25 · 83 · 4076 9141819 · 401 · 401 · 134 · 931 · 2282 · 24 · 45K
 - **Title block:** (162, 52)–(336, 284) mm: 68/10 · 68/10 · 45K · 16)4PZ 82K · R2s · Rzi 82K WBS · R2z · CANADA" 1/400 · 4-140 · 5554 · R22 !QK · R2e !OK · 7/35 · co) 4Pz · 4K · 4p7 (15) 22P · 4K ISSUE · R29: · 544 538 · 2EP · 22p · a3 · R2z · 
 
-Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p31 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p31%20(traced).json) (the CAD file: `1986 - M475A - Stereo Monitor Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - Stereo Monitor Module p31 (traced).json](../MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20p31%20%28traced%29.json) (the CAD file: `1986 - M475A - Stereo Monitor Module p31 (traced).dxf`).
 
 ## Full text
 

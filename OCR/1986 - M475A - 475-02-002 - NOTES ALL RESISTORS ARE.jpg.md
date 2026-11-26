@@ -22,7 +22,7 @@ Wiki page: [M475A](../../../../PAGES/M475A.md)
 - **Words (OCR):** 145 in 136 lines: NOTES: · ALL RESISTORS ARE · AND ALL CAPACITORS ARE IN UF · UNLESS OTheRMiSE  SPECIFIED: · LAST component DESIGNATIONS; · 47 /10 · CJ9, crio. 053, J2. · R65; · UIa · 22P · 5w7 · USE PCB -139.
 - **Wiring (first pass):** 116 connected wire groups from 900 runs; labelled ends: 996 mm → U4A, J-1,2, 3,40; 488 mm → U4A, 74C02N, ULB, U4C; 184 mm → SMZB, 47/10, 5448; 168 mm → Swja; 156 mm → 47/10, SMZB, 5448
 
-Every curve, box, word and wire group: [1986 - M475A - 475-02-002 - NOTES ALL RESISTORS ARE (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-02-002%20-%20NOTES%20ALL%20RESISTORS%20ARE%20(traced).json) (the CAD file: `1986 - M475A - 475-02-002 - NOTES ALL RESISTORS ARE (traced).dxf`).
+Every curve, box, word and wire group: [1986 - M475A - 475-02-002 - NOTES ALL RESISTORS ARE (traced).json](../SCHEMATICS/1986%20-%20M475A%20-%20475-02-002%20-%20NOTES%20ALL%20RESISTORS%20ARE%20%28traced%29.json) (the CAD file: `1986 - M475A - 475-02-002 - NOTES ALL RESISTORS ARE (traced).dxf`).
 
 ## Full text
 
