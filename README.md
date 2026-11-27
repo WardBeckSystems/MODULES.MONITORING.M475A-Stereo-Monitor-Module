@@ -202,6 +202,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY2p3cWdkc2sxLW8/view?resourcekey=0-OM-lCjn0SVC8Sy7VutO-9A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY2p3cWdkc2sxLW8&resourcekey=0-OM-lCjn0SVC8Sy7VutO-9A" width="240" alt="1986 - M475A - 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT.jpg"></a><br><sub>1986|19 · 475-04-004 - STEREO MONITOR MODULE MODULE LAYOUT · <a href="MECHANICAL/1986%20-%20M475A%20-%20475-04-004%20-%20STEREO%20MONITOR%20MODULE%20MODULE%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcmJySGt4ZS1lYms/view?resourcekey=0-lJNpiLmsMpJ6tRHdZnDohA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcmJySGt4ZS1lYms&resourcekey=0-lJNpiLmsMpJ6tRHdZnDohA" width="240" alt="1986 - M475A - 475-04-004.jpg"></a><br><sub>1986|19 · 475-04-004 · <a href="MECHANICAL/1986%20-%20M475A%20-%20475-04-004%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M475A.stl`](MECHANICAL/M475A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M475A)
+
+- **Size:** 41 × 178 mm panel, 165 mm deep, 3.2 mm plate (TECHNICAL DATA: 60" (41 mm 7.00" high 178 mm 165 Mm 50" deep)
+- **From the drawing:** 11 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M475A - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M475A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
