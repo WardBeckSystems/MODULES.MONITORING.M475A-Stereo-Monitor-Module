@@ -1,0 +1,189 @@
+{
+ "module": "M475A",
+ "title": "M475A STEREO MONITOR MODULE",
+ "source": {
+  "file": "MANUALS/1986 - M475A - P004 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 1.0,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "",
+   "items": [
+    {
+     "name": "Monitor solo",
+     "text": "dB +/-0.5 dB _ dB +/-0.5 dB",
+     "quantities": [
+      {
+       "value": 0.5,
+       "unit": "dB",
+       "tolerance": true
+      },
+      {
+       "value": 0.5,
+       "unit": "dB",
+       "tolerance": true
+      }
+     ],
+     "key": "monitor_solo"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+/-0.15 dB from kHz",
+   "quantities": [
+    {
+     "value": 0.15,
+     "unit": "dB",
+     "tolerance": true
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "dB below nominal output measured over Hz dBm kHz bandwidth)"
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.159 from Hz +24 dBm output less Less than 0.059 at kHz +24 dBm output.",
+   "quantities": [
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "Monitor Solo 600 ohms less balanced/unbalanced. 30k ohms balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance monitor solo talk back",
+   "key": "input_impedance_monitor_solo_talk_back",
+   "text": "30k ohms balanced_ Less than ohms summing input) _ 78K ohms balanced"
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "dBm nominal"
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "50 ohms balanced",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms balanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output levels",
+   "key": "output_level",
+   "text": "dBm nominal +26 dBm maximum",
+   "quantities": [
+    {
+     "value": 26,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "Phasing: dB _ Low number the input pair in phase with the low number the output pair."
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "25V MA nominal, +24 dc 120 mA _ MA maximum.",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "V"
+    },
+    {
+     "value": 120,
+     "unit": "mA"
+    }
+   ]
+  },
+  {
+   "name": "Ambient temperature",
+   "key": "ambient_temperature",
+   "text": "degrees Celsius"
+  },
+  {
+   "name": "Dimensions",
+   "key": "dimensions",
+   "text": "60\" (41 mm 7.00\" high 178 mm 165 Mm 50\" deep",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "Mm"
+    },
+    {
+     "value": 50,
+     "unit": "\""
+    }
+   ]
+  },
+  {
+   "name": "Weight",
+   "key": "weight",
+   "text": "(0.538 kg)",
+   "quantities": [
+    {
+     "value": 0.538,
+     "unit": "kg"
+    }
+   ]
+  }
+ ]
+}

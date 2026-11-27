@@ -1,0 +1,135 @@
+{
+ "module": "M475A",
+ "source": {
+  "file": "MANUALS/1986 - M475A - Stereo Monitor Module (2).pdf",
+  "pages": [
+   8,
+   9,
+   10,
+   11,
+   12,
+   13
+  ]
+ },
+ "ocr_quality": 0.73,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The mono control signal appearing at J2 pin I of the SA14_ 140 assembly and derived f...om U48 pin 10, del ermines whether the solids tate switch ing on the SA14_ 14 0 combines the le I! and...igh t channel signals to a n L+R (mo no) signal. This OCCurS forth eco ndHion of SW6 op e...a le Clan d the program signal palh selected (n o closure to control Common at module Connector pin W).",
+    "Transistors 04 and 05 drive the su lo.. n d mono LEO indlc a to...s respectively.",
+    "Monitor Outputs",
+    "Two Se lS of left and right channel mo r,;lor ing out p U15 a \"'e provided. On\" is di...ec t and the other is through mute relays K I lind K2.",
+    "With the muter el a y s K l lind K2 int her el axed po s il ion the full +8 dBm signal output IIp pears atp ins 17&U and 18&U of the module conn eclo r. When the mUle control function is activated the signals are derive d through loss n el works R 17, R 18 & R2 1 (f or the ie ftc hannel) and R19, R20 & R2 2 l forth e right c h\" n nel). R21 and R22 maybe adjusted to give the degree of muting desired (f ull or partial).",
+    "Transistors 0 1 and 02 drive muter e lays Kl, K2 and the mute LEO indicator 051 (Which is i nlegra l to mUles witch SW7).",
+    "Mute cont...ol maybe from a next erna l source, wll h a closure of connector pin X to pin Z by a n e x tern a l SOurce or o nth e module by operating alternate \" c t lon s wllch SW7.",
+    "Power fort he mule control circuitry is der lve d from.. n external 24 volt sc c c e applied between pins Y and Z of the module connector.",
+    "Twelve volts to operate the s olo/ l a lkba ck control circuitry through dec o u p l er 0 3.",
+    "Power Supply Oecoupling",
+    "The +/-25 volts u p ply voltage applied 10 pins 21 and 19 of I h e",
+    "module c onneclo... is...e gul at ed down to +/ _18 volts by ana ctiv e",
+    "decoupl er consisting of 0 6 through 0 9 wll h their associated components."
+   ]
+  },
+  {
+   "heading": "M4 7 SA STEREO MONITOR MOOUL E",
+   "paragraphs": [
+    "The d ~oup led +/ ~18 II olt supply IIol t age powers t h., audio c i n:u itry of the M47SA.",
+    "The common return fort he + / ~2S IIo l t supplies i sat pin 20 o f the module connector, while them ain f r...me c h...s sis con ne c tio n appears atp i n 22.",
+    "WA;:; C · = = C l< SYS,\"E M S L.TC,",
+    "\"'''15''' ST ~ i'l: EO MONITOR MODUL!::",
+    "MFG PART NUMBE1'l",
+    "cr Caoac; llor 4..7 uF /to V Kernel T3908 475\"'0 IOAS C2 4.7 v F/lO V ca 22 pF Ph~lips CO 22pF cs 220 pF 2222 -6~O-O.l2: 1",
+    "ce 33 uFjlO V Kernel TJ90 D3J6MOIOAS C1 4.7 vF /to V T39OB47 5MOIOAS C' 4.7 uF / to V C' 22p F Philips COO 22 pF",
+    "220 pF 33 uF / to V 68 uF jlO V,-, 2222-63 ~3 22 1 T3900 336MOlOAS T390 0686 MQl OAS ca 68 u F/ to V cis 470 pF",
+    "m 4?O pF ctz 22 pF 2Z22-6 U1_I0229 C>8 22 pF CO? l OO pF 22 22~30-58 l 0 1 C20 33 u F/ to V T390 0336MOIOAS",
+    "C\" 22 vF /25 V en 22 uF j 25 V C2J 10 vF / 25 V C,. 10 u F/2S V cas 0.' uFj lOOV Spra g ue lCl OX7RlO4M05 08",
+    "C26 22 uF/25 V Philips C21 22 uFj 25 V C28 22 uF /2 5 V C,\" 22 uF / 25 V C\" 22 u F/2 5 V",
+    "C\" 22 uF/2 5 V caz 0.' uFj",
+    "l OO V Sp ~,ague lClOX7R1C4M050 B C3J 0.' uF/l OO V",
+    "C'\" 0.' uFj lOO V cas 0.' uFj l OO V",
+    "WA~ D - BECK SYSTEMS L.TD."
+   ]
+  },
+  {
+   "heading": "MFG PART HUMBER",
+   "paragraphs": [
+    "CJ8 0.1 uF! IOO v Sp,;:ag ue CJ1 0.1 uF ! lC)O v",
+    "0.1 uF ! IOO v 0.1 uF ! IOO v",
+    "CRI DIode I H4 ' 48 CR2 R, Zen e.. 6.2V IH153A",
+    "CR. 'N\"\"\"",
+    ",R,, Zen... l. W IH146A m l H4003"
+   ]
+  },
+  {
+   "heading": "CRIO",
+   "paragraphs": [
+    "051 LEO, V.llaw H. P. HLMP_, 40 1 VI,. OS2 LEO, Red Fa fn: hlld FLlJl 10 RD DSJ LEO, R. d H.P. HLM P_ 1JOI RD",
+    "QI T..a n. l.lar PN3 569"
+   ]
+  },
+  {
+   "heading": "TN21 02",
+   "paragraphs": [
+    "00 1' PNl 569"
+   ]
+  },
+  {
+   "heading": "PNJ645",
+   "paragraphs": [
+    "ce T N2 102 09 T N4OJ6",
+    "R,R' Resl$lar\" 1! 4W 5'; 41K",
+    "Philips"
+   ]
+  },
+  {
+   "heading": "'9 ' OK",
+   "paragraphs": [
+    "W A J10 - B e Cl< S Y9Tl:: MS LT C.",
+    "MI&75A STEREO MONITOR MOOut.E",
+    "DESCRIPTION MFG PMn NUMBE;!;",
+    "Res l,~tor lf4 W 5S,2<"
+   ]
+  },
+  {
+   "heading": "R15 1",
+   "paragraphs": [
+    "Potent Iometer",
+    "1/ I&W 5~ Philips",
+    "Resistor",
+    "\" P i her PT1 0 VSK '\" Potenl lomet er",
+    "eza Re s',:lIo r 1/4W 5S \"\"\"zs Philips",
+    ",n J9K '\"",
+    "22 0",
+    "\" 0 Potent iometer",
+    "Resistor 1/4W 51 JOK",
+    "IoI47S A S'~RE O MONITOR MoaUL::"
+   ]
+  },
+  {
+   "heading": ",. '\" M' G \"'ART NUMBER",
+   "paragraphs": [
+    "Resistor 1/ 4W"
+   ]
+  },
+  {
+   "heading": "1/ 4 W",
+   "paragraphs": [
+    "P\",i,liPS",
+    "RS> l / ZW 5~ 'AS AS' 1/ 4W roc R5S oaK AS. oaK"
+   ]
+  },
+  {
+   "heading": "S'NI",
+   "paragraphs": [
+    "7.4c AlA. Pusl'lb ullon Assembly",
+    "SW' SW if,~h, Lighted L icon 39-23 100 S..n",
+    "n Con~ec (o,., 12 Pin e..... g 5 lik 8:;'-9 65780-0 12 J2 e Pine.....gsti k 6 578 ()..()06",
+    "Relay rr r RZ. 24W-C",
+    "I n l.,~..e tee",
+    "U' Cil\"(;ul t National LM8J 3N"
+   ]
+  }
+ ]
+}

@@ -13,6 +13,187 @@ Ward-Beck Systems M475A, 1986|19. Wiki page: [M475A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 38 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [4 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1986 - M475A - P004 - 1-1.jpg](MANUALS/1986%20-%20M475A%20-%20P004%20-%201-1.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** |  |
+| &nbsp;&nbsp;Monitor solo | dB +/-0.5 dB _ dB +/-0.5 dB |
+| **Frequency response** | +/-0.15 dB from kHz |
+| **Noise** | dB below nominal output measured over Hz dBm kHz bandwidth) |
+| **Harmonic distortion** | Less than 0.159 from Hz +24 dBm output less Less than 0.059 at kHz +24 dBm output. |
+| **Source impedance** | Monitor Solo 600 ohms less balanced/unbalanced. 30k ohms balanced |
+| **Input impedance monitor solo talk back** | 30k ohms balanced_ Less than ohms summing input) _ 78K ohms balanced |
+| **Input level** | dBm nominal |
+| **Output impedance** | 50 ohms balanced |
+| **Load impedance** | 600 ohms balanced |
+| **Output levels** | dBm nominal +26 dBm maximum |
+| **Channel separation** | Phasing: dB _ Low number the input pair in phase with the low number the output pair. |
+| **Power requirements** | 25V MA nominal, +24 dc 120 mA _ MA maximum. |
+| **Ambient temperature** | degrees Celsius |
+| **Dimensions** | 60&quot; (41 mm 7.00&quot; high 178 mm 165 Mm 50&quot; deep |
+| **Weight** | (0.538 kg) |
+
+## Circuit description
+
+From [1986 - M475A - Stereo Monitor Module (2).pdf](MANUALS/1986%20-%20M475A%20-%20Stereo%20Monitor%20Module%20(2).pdf) pages 8-13 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The mono control signal appearing at J2 pin I of the SA14_ 140 assembly and derived f...om U48 pin 10, del ermines whether the solids tate switch ing on the SA14_ 14 0 combines the le I! and...igh t channel signals to a n L+R (mo no) signal. This OCCurS forth eco ndHion of SW6 op e...a le Clan d the program signal palh selected (n o closure to control Common at module Connector pin W).
+
+Transistors 04 and 05 drive the su lo.. n d mono LEO indlc a to...s respectively.
+
+Monitor Outputs
+
+Two Se lS of left and right channel mo r,;lor ing out p U15 a &quot;'e provided. On&quot; is di...ec t and the other is through mute relays K I lind K2.
+
+With the muter el a y s K l lind K2 int her el axed po s il ion the full +8 dBm signal output IIp pears atp ins 17&amp;U and 18&amp;U of the module conn eclo r. When the mUle control function is activated the signals are derive d through loss n el works R 17, R 18 &amp; R2 1 (f or the ie ftc hannel) and R19, R20 &amp; R2 2 l forth e right c h&quot; n nel). R21 and R22 maybe adjusted to give the degree of muting desired (f ull or partial).
+
+Transistors 0 1 and 02 drive muter e lays Kl, K2 and the mute LEO indicator 051 (Which is i nlegra l to mUles witch SW7).
+
+Mute cont...ol maybe from a next erna l source, wll h a closure of connector pin X to pin Z by a n e x tern a l SOurce or o nth e module by operating alternate &quot; c t lon s wllch SW7.
+
+Power fort he mule control circuitry is der lve d from.. n external 24 volt sc c c e applied between pins Y and Z of the module connector.
+
+Twelve volts to operate the s olo/ l a lkba ck control circuitry through dec o u p l er 0 3.
+
+Power Supply Oecoupling
+
+The +/-25 volts u p ply voltage applied 10 pins 21 and 19 of I h e
+
+module c onneclo... is...e gul at ed down to +/ _18 volts by ana ctiv e
+
+decoupl er consisting of 0 6 through 0 9 wll h their associated components.
+
+**M4 7 SA STEREO MONITOR MOOUL E**
+
+The d ~oup led +/ ~18 II olt supply IIol t age powers t h., audio c i n:u itry of the M47SA.
+
+The common return fort he + / ~2S IIo l t supplies i sat pin 20 o f the module connector, while them ain f r...me c h...s sis con ne c tio n appears atp i n 22.
+
+WA;:; C · = = C l&lt; SYS,&quot;E M S L.TC,
+
+&quot;'''15''' ST ~ i'l: EO MONITOR MODUL!::
+
+MFG PART NUMBE1'l
+
+cr Caoac; llor 4..7 uF /to V Kernel T3908 475&quot;'0 IOAS C2 4.7 v F/lO V ca 22 pF Ph~lips CO 22pF cs 220 pF 2222 -6~O-O.l2: 1
+
+ce 33 uFjlO V Kernel TJ90 D3J6MOIOAS C1 4.7 vF /to V T39OB47 5MOIOAS C' 4.7 uF / to V C' 22p F Philips COO 22 pF
+
+220 pF 33 uF / to V 68 uF jlO V,-, 2222-63 ~3 22 1 T3900 336MOlOAS T390 0686 MQl OAS ca 68 u F/ to V cis 470 pF
+
+m 4?O pF ctz 22 pF 2Z22-6 U1_I0229 C&gt;8 22 pF CO? l OO pF 22 22~30-58 l 0 1 C20 33 u F/ to V T390 0336MOIOAS
+
+C&quot; 22 vF /25 V en 22 uF j 25 V C2J 10 vF / 25 V C,. 10 u F/2S V cas 0.' uFj lOOV Spra g ue lCl OX7RlO4M05 08
+
+C26 22 uF/25 V Philips C21 22 uFj 25 V C28 22 uF /2 5 V C,&quot; 22 uF / 25 V C&quot; 22 u F/2 5 V
+
+C&quot; 22 uF/2 5 V caz 0.' uFj
+
+l OO V Sp ~,ague lClOX7R1C4M050 B C3J 0.' uF/l OO V
+
+C'&quot; 0.' uFj lOO V cas 0.' uFj l OO V
+
+WA~ D - BECK SYSTEMS L.TD.
+
+**MFG PART HUMBER**
+
+CJ8 0.1 uF! IOO v Sp,;:ag ue CJ1 0.1 uF ! lC)O v
+
+0.1 uF ! IOO v 0.1 uF ! IOO v
+
+CRI DIode I H4 ' 48 CR2 R, Zen e.. 6.2V IH153A
+
+CR. 'N&quot;&quot;&quot;
+
+,R,, Zen... l. W IH146A m l H4003
+
+**CRIO**
+
+051 LEO, V.llaw H. P. HLMP_, 40 1 VI,. OS2 LEO, Red Fa fn: hlld FLlJl 10 RD DSJ LEO, R. d H.P. HLM P_ 1JOI RD
+
+QI T..a n. l.lar PN3 569
+
+**TN21 02**
+
+00 1' PNl 569
+
+**PNJ645**
+
+ce T N2 102 09 T N4OJ6
+
+R,R' Resl$lar&quot; 1! 4W 5'; 41K
+
+Philips
+
+**'9 ' OK**
+
+W A J10 - B e Cl&lt; S Y9Tl:: MS LT C.
+
+MI&amp;75A STEREO MONITOR MOOut.E
+
+DESCRIPTION MFG PMn NUMBE;!;
+
+Res l,~tor lf4 W 5S,2&lt;
+
+**R15 1**
+
+Potent Iometer
+
+1/ I&amp;W 5~ Philips
+
+Resistor
+
+&quot; P i her PT1 0 VSK '&quot; Potenl lomet er
+
+eza Re s',:lIo r 1/4W 5S &quot;&quot;&quot;zs Philips
+
+,n J9K '&quot;
+
+22 0
+
+&quot; 0 Potent iometer
+
+Resistor 1/4W 51 JOK
+
+IoI47S A S'~RE O MONITOR MoaUL::
+
+**,. '&quot; M' G &quot;'ART NUMBER**
+
+Resistor 1/ 4W
+
+**1/ 4 W**
+
+P&quot;,i,liPS
+
+RS&gt; l / ZW 5~ 'AS AS' 1/ 4W roc R5S oaK AS. oaK
+
+**S'NI**
+
+7.4c AlA. Pusl'lb ullon Assembly
+
+SW' SW if,~h, Lighted L icon 39-23 100 S..n
+
+n Con~ec (o,., 12 Pin e..... g 5 lik 8:;'-9 65780-0 12 J2 e Pine.....gsti k 6 578 ()..()06
+
+Relay rr r RZ. 24W-C
+
+I n l.,~..e tee
+
+U' Cil&quot;(;ul t National LM8J 3N
+
+</details>
+
+<!-- /module data -->
+
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
