@@ -1,6 +1,6 @@
 # M475A Stereo Monitor Module · Monitoring
 
-Ward-Beck Systems M475A, 1986|19. Wiki page: [M475A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M475A.html)
+Ward-Beck Systems M475A, 1986|19. Wiki page: [M475A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.MONITORING.M475A-Stereo-Monitor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

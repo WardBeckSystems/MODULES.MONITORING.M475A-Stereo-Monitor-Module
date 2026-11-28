@@ -1,5 +1,5 @@
 # 1986 - M475A - 14-140-02-001 - ALL CAPCITORS ARE.jpg
-Wiki page: [M475A](../../../../PAGES/M475A.md)
+Wiki page: [M475A](../)
 
 
 - **Year:** 1986 (module estimate (month))

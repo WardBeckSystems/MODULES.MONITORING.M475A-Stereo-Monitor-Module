@@ -1,5 +1,5 @@
 # 1986 - M475A - Stereo Monitor Module (2).pdf
-Wiki page: [M475A](../../../../PAGES/M475A.md)
+Wiki page: [M475A](../)
 
 
 - **Year:** 1986 (module estimate (month))

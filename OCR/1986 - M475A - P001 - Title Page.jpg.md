@@ -1,5 +1,5 @@
 # 1986 - M475A - P001 - Title Page.jpg
-Wiki page: [M475A](../../../../PAGES/M475A.md)
+Wiki page: [M475A](../)
 
 
 - **Year:** 1986 (found in this file: "MAY 1986")
